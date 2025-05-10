@@ -16,7 +16,7 @@
 
 <br>
 
-<h1>Requisição Get, gerando a lista com todos os cadastros</h1>
+<h1>JWT em ação solicitando o código do Token para liberção</h1>
 <div>
   <img src="ORM.png" width="1000px"/>
 </div>

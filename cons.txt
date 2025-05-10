@@ -1,0 +1,4 @@
+//Add-Migration InitialDB -Context ConexaoDB
+//Update-Database -Context ConexaoDB
+
+Para autorizar no swagger: -> Bearer Chave
